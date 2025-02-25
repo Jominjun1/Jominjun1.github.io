@@ -1,9 +1,13 @@
-title: Moonwalk
+title: 안녕하세요. 자바 백엔드 개발자 조민준 입니다.
 author: Abhinav Saxena
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  "할 수 있다 하면 된다"
+  
 
+  "사용자 경험을 최우선으로 생각합니다."
+  바쁜 현대 사회인들을 위한 당일예약이 가능한 주문 관리 시스템 "푸드픽스" 프로젝트를 개발한 경험이 있습니다.
+   
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
